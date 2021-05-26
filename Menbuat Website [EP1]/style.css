@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	background-image: url('img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+nav {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+}
+
+section {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+#card-body {
+	padding: 0.2rem 0.8rem;
+}
+
+#card h5 {
+	font-size: 20px;
+}
+
+#card p {
+	font-size: 12px;
+}
+
+#social-media {
+	margin-top: 10px;
+}
+
+#social-button button {
+	margin-top: 5px;
+}
+
+#social-media i {
+	color: #424242;
+	font-size: 17px;
+}
+
+#sosmed {
+	margin-left: 300px;
+}
+
+#ariana-grande {
+	width: 600px;
+}
+
+#font-progress {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#myskill img {
+	margin-top: 15px;
+	width: 64px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#p-1,
+#p-2,
+#p-3 {
+	font-size: 12px;
+	margin-top: 5%;
+}
+
+#btn-about i {
+	color: white;
+	padding: 0.2rem 0.375rem;
+	border: 1px solid transparent;
+	border-radius: 5px;
+}
+
+#btn-about a {
+	text-decoration: none;
+}
+/*  color icon #2C2C2C */
